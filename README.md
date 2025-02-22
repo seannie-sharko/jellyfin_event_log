@@ -1,7 +1,7 @@
 # Jellyfin Event Log
 
 ## Requirements:
-- git clone https://github.com/Sean-Brooks/jellyfin_event_log.git
+- git clone https://github.com/seannie-sharko/jellyfin_event_log.git
 - cd jellyfin_event_log
 - pip install -r requirements.txt
 
